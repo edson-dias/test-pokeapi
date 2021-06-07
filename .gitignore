@@ -1,0 +1,15 @@
+__pycache__
+
+*.*~
+
+*.pyc
+
+.env
+
+.idea
+
+.vscode/*
+
+keys.py
+
+*db.sqlite3
