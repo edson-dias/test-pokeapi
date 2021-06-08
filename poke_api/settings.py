@@ -12,7 +12,7 @@ WEATHER_SECRET_KEY = WEATHER_KEY
 
 DEBUG = True  # Development!!
 
-ALLOWED_HOSTS = ["*"]  # Development!!
+ALLOWED_HOSTS = ["*"] # Development!!
 
 
 INSTALLED_APPS = [
